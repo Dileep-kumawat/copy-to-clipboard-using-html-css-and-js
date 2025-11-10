@@ -6,12 +6,14 @@ A simple and stylish web app that lets you **copy text to your clipboard** with 
 
 ## 🚀 Demo
 
-🎥 **[Watch Demo Video](./demo.mp4)**
 
 🖼️ **Preview Screenshot:**
 
-
 ![Preview Screenshot](./preview.png)
+
+🎥 **[Watch Demo Video](./demo.mp4)**
+
+🔗 **Live Demo : https://dileep-kumawat.github.io/copy-to-clipboard-using-html-css-and-js/**
 
 ---
 
